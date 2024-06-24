@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kumar!
 
-### 👩🏻‍💻 A React and Next.js Devloper <br/>
+### 👩🏻‍💻 A React and Next.js Frontend Developer <br/>
 
 Let's build digital adventures together that leave a lasting impression!
 
